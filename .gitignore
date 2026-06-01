@@ -39,6 +39,8 @@ config.yaml
 
 # Screenshots (dev artifacts)
 *.png
+!assets/
+!assets/doloffer-logo.png
 # Test result artifacts
 test/*-results*.json
 test/ctf-*-results.json

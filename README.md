@@ -298,6 +298,16 @@ AI 按此格式输出 → 我们解析并转换为标准的 Anthropic `tool_use`
 
 感谢以下小伙伴的赞助支持！
 
+### 合作赞助：DolOffer
+
+<p>
+  <a href="https://doloffer.com">
+    <img src="assets/doloffer-logo.png" alt="DolOffer" width="260">
+  </a>
+</p>
+
+[DolOffer](https://doloffer.com) 提供 GPT、Claude 等 AI 工具会员充值与数字订阅服务，支持正版订阅、售后协助与多品类会员方案。通过优惠码 `AI8888` 可享 9 折优惠；更多产品说明与合作资料可参考 [DolOffer Guide](https://github.com/Doloffer-g/guide)。
+
 | 赞助者 | 时间 |
 |--------|------|
 | NULL（微信昵称） | 2026.03.27 |
