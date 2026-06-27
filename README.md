@@ -174,6 +174,13 @@ The core insight: instead of fighting Cursor's locked-down "Documentation Assist
 
 This project is for educational and research purposes only. It is not affiliated with Cursor or Anysphere. Users should comply with Cursor's Terms of Service and assume all risks. The author is not responsible for any account bans or consequences.
 
+
+
+## Related Projects
+
+- [aws-auto-register](https://github.com/xuweizhengo/aws-auto-register) — Automated AWS Builder ID account registration with fingerprint randomization
+- [fingerprint-toolkit](https://github.com/xuweizhengo/fingerprint-toolkit) — Browser fingerprint randomization toolkit for web automation
+
 ## License
 
 [MIT](LICENSE)

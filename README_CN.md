@@ -294,6 +294,13 @@ AI 按此格式输出 → 我们解析并转换为标准的 Anthropic `tool_use`
 - 修复长 `Write/Edit` 截断续写、OpenAI 流式工具调用恢复
 - 新增 `degraded` 日志状态与降级原因展示
 
+
+
+## 相关项目
+
+- [aws-auto-register](https://github.com/xuweizhengo/aws-auto-register) — AWS 自动注册工具，含指纹随机化
+- [fingerprint-toolkit](https://github.com/xuweizhengo/fingerprint-toolkit) — 浏览器指纹工具箱
+
 ## 免责声明 / Disclaimer
 
 **本项目仅供学习、研究和接口调试目的使用。**
