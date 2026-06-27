@@ -52,7 +52,7 @@ A proxy service that converts Cursor Web Docs free AI API into **Anthropic Messa
 ### 1. Install
 
 ```bash
-git clone https://github.com/xuweizhengo/cursor2api.git
+git clone https://github.com/xuweizhengo/cursor-free-api.git
 cd cursor2api
 npm install
 ```
