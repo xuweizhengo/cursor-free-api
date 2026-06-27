@@ -179,7 +179,7 @@ This project is for educational and research purposes only. It is not affiliated
 ## Related Projects
 
 - [aws-auto-register](https://github.com/xuweizhengo/aws-auto-register) — Automated AWS Builder ID account registration with fingerprint randomization
-- [fingerprint-toolkit](https://github.com/xuweizhengo/fingerprint-toolkit) — Browser fingerprint randomization toolkit for web automation
+- [skills-hub](https://github.com/xuweizhengo/skills-hub) — AI Skills & MCP marketplace`n- [fingerprint-toolkit](https://github.com/xuweizhengo/fingerprint-toolkit) — Browser fingerprint randomization toolkit for web automation
 
 ## License
 

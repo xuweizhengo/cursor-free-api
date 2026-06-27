@@ -299,7 +299,7 @@ AI 按此格式输出 → 我们解析并转换为标准的 Anthropic `tool_use`
 ## 相关项目
 
 - [aws-auto-register](https://github.com/xuweizhengo/aws-auto-register) — AWS 自动注册工具，含指纹随机化
-- [fingerprint-toolkit](https://github.com/xuweizhengo/fingerprint-toolkit) — 浏览器指纹工具箱
+- [fingerprint-toolkit](https://github.com/xuweizhengo/fingerprint-toolkit) — AI 技能市场 & MCP 注册表`n- [fingerprint-toolkit](https://github.com/xuweizhengo/fingerprint-toolkit) — 浏览器指纹工具箱
 
 ## 免责声明 / Disclaimer
 
